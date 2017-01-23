@@ -1,0 +1,95 @@
+
+	html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu{margin:0;padding:0;}
+	header,footer,section,article,aside,nav,hgroup,address,figure,figcaption,menu,details{display:block;}
+	table{border-collapse:collapse;border-spacing:0;}
+	caption,th{text-align:left;font-weight:normal;}
+	html,body,fieldset,img,iframe,abbr{border:0;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;}
+	i,cite,em,var,address,dfn{font-style:normal;}
+	[hidefocus],summary{outline:0;}
+	li{list-style:none;}
+	sup,sub{font-size:83%;}
+	pre,code,kbd,samp{font-family:inherit;}
+	q:before,q:after{content:none;}
+	textarea{overflow:auto;resize:none;}
+	label,summary{cursor:default;}
+	a,button{cursor:pointer;}
+	a{color:black;}
+
+	h1,h2,h3,h4,h5,h6,em,strong,b{font-weight:normal;}
+	del,ins,u,s,a,a:hover{text-decoration:none;}
+	body{background:#fff;cursor: pointer;}
+
+#header1{height:80px;width:100%;background: black;}
+#header1 img{margin-left: 13%;}
+#nav1{margin-left:13%;height:90px;overflow:hidden;}
+#nav1 li{float:left;width: 88px;height:40px;line-height: 40px;text-align:center;border:1px solid black;margin-top:22px;font-weight:bold; }
+#nav1 li:hover{height:48px;border-bottom: 4px solid red;/*要去掉input的outline:none;*/}
+#left1{height: 27px;margin-left:122px;margin-top:29px;width: 168px;}
+#left2{display:inline-block;margin-left: -4px;margin-top: -1px;}
+#nav1 span{margin-left: 25px;color: silver;cursor: pointer;}
+#main{position: relative;}
+#section1{height:3600px;width:673px;position: relative;left:-10px;top:22px;}
+.video{overflow:hidden;position: relative;}
+.video1{display: inline-block;position: absolute;}
+.video2{display: inline-block;height: 133px;overflow: hidden;margin-left: 320px;}
+.headershow{font-family: 黑体;margin-top: 8px;}
+.video4{display: block;margin-top: 10px;}
+.video4 li{display: inline-block;background-color: #F1F1F1;}
+.video4 li:hover{background-color: red;}
+.video2 p{margin-top: 30px;font-style: italic;}
+.video5{margin-top: 10px;}
+.video5 hr{margin-top: 10px;}
+.imgps{margin-left: 10px;}
+.video_same{margin-top: 30px;}
+
+#aside{height:7133px;width:300px;position:absolute;top:0;right:0;}
+.marp{margin-top: 32px;}
+#img1{margin-top:20px;font-style: italic;}
+#yishu21{margin-top: 15px;}
+#yishu22{margin-top: 15px;}
+#yishu23{margin-top: 3px;}
+
+/*此处是aside的预留节奏，与下面相呼应夹的那部分是footerde css*/
+#footer1{height:40px;width: 100%;background: black;}
+#footer2{margin:0 auto;width: 688px;vertical-align: center;}
+#footer2 ul{display: inline-block;margin-top:10px;}
+#footer2 li{display:inline-block;float: left;}
+#footer2 li span{display:inline-block;padding: 0 5px;}
+#footer3{height: 105px;}
+#footer4{width:490px;margin: 0 auto;height: 100%;text-align: center;overflow: hidden;}
+#h6w1{margin-top: 20px;}
+#h6w2{margin-top: 10px;}
+#h6w3{margin-top: 10px;}
+/*此处开始是aside的css部分*/
+#xxp{border: 1px solid silver;height: 110px;margin-top: 22px;overflow: hidden;}
+#xxp h3{margin-left: 10px;margin-top: 10px;}
+#xxp img{margin-top: -29px;}
+
+
+.rig1{position: absolute;top:20px;right:0;}
+.rig{position: absolute;top:20px;right: 36px;}
+#aside2{height:662px;border: 1px solid silver;margin-top: 20px;}
+.photo_p{display: inline-block;}
+.photo_ps{display: inline-block;position: relative;top:-5px;}
+.cd_1{margin-top: 16px;}
+#aside4{background: url(../image/mystyle.jpg);width:300px;height: 355px;}
+#aside4{position:relative;margin-top: 60px;}
+#aside4 h4{position: absolute;left: 10px;top:120px;}
+#aside5{border:1px solid silver;height: 296px;margin-top: 40px;}
+#mmp1{width:287px;height: 60px;overflow: hidden;margin-top: 5px;margin-left:5px;background: url(../image/sch_bg.png);text-align: center;}
+#mmp1 h6{position:relative;top:7px;}
+#aside6 ul{margin-left: 8px;}
+#aside6 ul li{text-align: center;display: inline-block;width: 38px;height:38px;background: #DEE773;margin-left: 2px;}
+#pp11{margin-top: 17px;position: relative;left:80px;}
+.pp22{margin-top: 2px;}
+#aside6 ul li:hover{background: silver;}
+#aside7{width: 300px;height: 500px;background: silver;margin-top: 20px;}
+.swiper3{position: absolute;top:0;left:0;width:300px;display: inline-block;}
+ .swp7{ background-image:url(../image/cxd1.jpg);background-repeat:no-repeat;}
+ .swp8{ background-image:url(../image/mjk.jpg);background-repeat:no-repeat;}
+ .swp9{ background-image:url(../image/family.jpg);background-repeat:no-repeat;}
+#aside8{height:640px;margin-top:35px;}
+#part2b{height: 568px;border: 1px solid silver;}
+
+
+

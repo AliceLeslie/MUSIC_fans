@@ -1,0 +1,193 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+#header1 {
+  height: 80px;
+  width: 100%;
+  background: black;
+}
+.header2 {
+  width: 900px;
+  height: 260px;
+  background-color: black;
+  position: relative;
+  top: 60px;
+  left: 324px;
+  overflow: hidden;
+}
+.header3 {
+  width: 530px;
+  height: 240px;
+  margin-left: 10px;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.header3 ul li {
+  width: 530px;
+  height: 240px;
+  text-align: center;
+  line-height: 240px;
+  position: absolute;
+  left: 0px;
+}
+.button1 {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background-color: #4D4D4F;
+  position: absolute;
+  bottom: 16px;
+  right: 72px;
+}
+.button2 {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background-color: #4D4D4F;
+  position: absolute;
+  bottom: 16px;
+  right: 30px;
+}
+#nav1 {
+  margin-left: 13%;
+  height: 90px;
+  overflow: hidden;
+}
+#nav1 li {
+  float: left;
+  width: 88px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 22px;
+  font-weight: bold;
+}
+#nav1 li:hover {
+  height: 48px;
+  border-bottom: 4px solid red;
+  /*要去掉input的outline:none;*/
+}
+#left1 {
+  height: 27px;
+  margin-left: 122px;
+  margin-top: 29px;
+  width: 168px;
+}
+#left2 {
+  display: inline-block;
+  margin-left: -4px;
+  margin-top: -1px;
+}
+#nav1 span {
+  margin-left: 25px;
+  color: silver;
+  cursor: pointer;
+}
+.move_1 {
+  background-image: url(../image/indexlb_bg01.jpg);
+  width: 100%;
+  height: 400px;
+}
+.main {
+  width: 1000px;
+  margin: 0 auto;
+  height: 8060px;
+}
+.playb_1 {
+  font-size: 42px;
+  margin-top: 20px;
+}
+.playb_1 li {
+  display: inline-block;
+}
+.span1 {
+  font-size: 20px;
+}
+.move1 {
+  display: inline-block;
+  width: 490px;
+  height: 329px;
+  position: relative;
+  overflow: hidden;
+}
+.move2 {
+  display: inline-block;
+  width: 490px;
+  height: 329px;
+  position: relative;
+  overflow: hidden;
+  margin-left: 15px;
+}
+.move_2 {
+  margin-left: 10px;
+}
+.cml {
+  margin-top: 20px;
+}
+.cml1 {
+  margin-top: 16px;
+  font-size: 10px;
+  padding-bottom: 10px;
+}
+.movecha {
+  width: 490px;
+  height: 329px;
+  position: absolute;
+  top: 329px;
+  background-color: black;
+  color: white;
+}
+.movecha_1 {
+  margin-left: 15px;
+}
+.movecha_2 {
+  float: right;
+  color: red;
+}
+.movemodel_1 {
+  margin-top: 28px;
+}
+#footer1 {
+  height: 40px;
+  width: 100%;
+  background: black;
+}
+#footer2 {
+  margin: 0 auto;
+  width: 750px;
+  vertical-align: center;
+}
+#footer2 ul {
+  display: inline-block;
+  margin-top: 10px;
+}
+#footer2 li {
+  display: inline-block;
+  float: left;
+}
+#footer2 li span {
+  display: inline-block;
+  padding: 0 5px;
+}
+#footer3 {
+  height: 105px;
+}
+#footer4 {
+  width: 490px;
+  margin: 0 auto;
+  height: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+#h6w1 {
+  margin-top: 20px;
+}
+#h6w2 {
+  margin-top: 10px;
+}
+#h6w3 {
+  margin-top: 10px;
+}
